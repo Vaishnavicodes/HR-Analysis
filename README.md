@@ -2,11 +2,11 @@
 MS in Business Analytics - Capstone Project 
 
 This project dealt with the following: 
-  Business Problem and Objectives
-  Executive Summary
-  Data Overview and Key Business Assumptions (if any)
-  Data Preparation and Pre-processing
-  Sanity checks, treatment and transformations for analytical dataset preparation
+  - Business Problem and Objectives
+  - Executive Summary
+  - Data Overview and Key Business Assumptions (if any)
+  - Data Preparation and Pre-processing
+  - Sanity checks, treatment and transformations for analytical dataset preparation
   Exploratory Data Analysis
   Key Business Findings and Insights
   Model Development and Validations
